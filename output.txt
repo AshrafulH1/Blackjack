@@ -1,0 +1,113 @@
+Welcome to Blackjack
+
+Dealer's hand: 7-D ACE-S 
+Huey's hand: KING-S QUEEN-H 
+Dewey's hand: QUEEN-C 4-D 
+Louie's hand: 2-C QUEEN-D 
+
+What would Huey like to do? (1:HIT  2:STAY  0:QUIT GAME) 2
+
+What would Dewey like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Dewey's hand: QUEEN-C 4-D 10-H 
+Dewey busted.
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 2-C QUEEN-D 4-S 
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 2-C QUEEN-D 4-S JACK-D 
+Louie busted.
+
+----------------------------------------
+Dealer's hand: 7-D ACE-S JACK-H 
+Huey's hand: KING-S QUEEN-H 
+Huey won.
+Dewey's hand: QUEEN-C 4-D 10-H 
+Dewey busted.
+Louie's hand: 2-C QUEEN-D 4-S JACK-D 
+Louie busted.
+----------------------------------------
+Start another round? (1:YES  0:NO) 1
+
+Dealer's hand: 6-C JACK-S 
+Huey's hand: 7-H 8-C 
+Dewey's hand: 10-S 6-S 
+Louie's hand: 9-H 2-H 
+
+What would Huey like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Huey's hand: 7-H 8-C 8-H 
+Huey busted.
+
+What would Dewey like to do? (1:HIT  2:STAY  0:QUIT GAME) 0
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 9-H 2-H 7-C 
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 2
+
+----------------------------------------
+Dealer's hand: 6-C JACK-S 9-D 
+Dealer busted.
+Huey's hand: 7-H 8-C 8-H 
+Huey busted.
+Louie's hand: 9-H 2-H 7-C 
+Louie won.
+----------------------------------------
+Start another round? (1:YES  0:NO) 1
+
+Dealer's hand: 2-D 6-H 
+Huey's hand: 7-S 10-D 
+Louie's hand: 10-C 4-H 
+
+What would Huey like to do? (1:HIT  2:STAY  0:QUIT GAME) 2
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 10-C 4-H 5-S 
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 2
+
+----------------------------------------
+Dealer's hand: 2-D 6-H 5-D 3-H 4-C 
+Huey's hand: 7-S 10-D 
+Huey lost.
+Louie's hand: 10-C 4-H 5-S 
+Louie lost.
+----------------------------------------
+Start another round? (1:YES  0:NO) 1
+
+Dealer's hand: QUEEN-S KING-C 
+Huey's hand: 2-S ACE-H 
+Louie's hand: 3-S KING-H 
+
+What would Huey like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Huey's hand: 2-S ACE-H 8-D 
+
+What would Huey like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Huey's hand: 2-S ACE-H 8-D 5-H 
+
+What would Huey like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Huey's hand: 2-S ACE-H 8-D 5-H 3-D 
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 3-S KING-H ACE-C 
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 3-S KING-H ACE-C ACE-D 
+
+What would Louie like to do? (1:HIT  2:STAY  0:QUIT GAME) 1
+Louie's hand: 3-S KING-H ACE-C ACE-D 9-S 
+Louie busted.
+
+----------------------------------------
+Dealer's hand: QUEEN-S KING-C 
+Huey's hand: 2-S ACE-H 8-D 5-H 3-D 
+Huey lost.
+Louie's hand: 3-S KING-H ACE-C ACE-D 9-S 
+Louie busted.
+----------------------------------------
+Start another round? (1:YES  0:NO) 0
+
+Huey won 1 and lost 3 games.
+Dewey won 0 and lost 1 games.
+Louie won 1 and lost 3 games.
+Goodbye
